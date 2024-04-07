@@ -1,19 +1,19 @@
-## <h1>**Olá, seja bem-vindo!** 👋</h1>
+## <h1>**Welcome to my profile!** 👋</h1>
 
 <br>
- <p>Sou o Vitor, desenvolvedor de Software Front-End com muita vontade de aprender!<br> 
-Segue abaixo um breve resumo sobre mim:</p>
-<p>(Se quiser pode dar uma olhadinha no meu site também 👀)</p>
+ <p>I'm Vitor, a Front-End Software Developer with a strong desire to learn!
+Here's a brief summary about me:</p>
+<p>(Feel free to check out my website too 👀)</p>
 <span>💻 </span><a href="https://vitorsofiati.github.io" target="_blank">https://vitorsofiati.github.io</a>
 <br>
 
-# <h1 align="center">_**FERRAMENTAS E TECNOLOGIAS**_</h1>
-#### <p align="center">Estas são as ferramentas e tecnologias nas quais possuo conhecimento:
+# <h1 align="center">_**TOOLS AND TECHNOLOGIES**_</h1>
+#### <p align="center">these are the technologies in which I have knowledge:
 <br></p>
 
 
 <div align="center" width="100%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="logotipo do Angular" height="80px" width="80px" align="center">
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="logotipo do Angular" height="80px" width="80px" align="center"> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="logotipo do TypeScript" height="60px" width="60px" display="block" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="logotipo do JavaScript" height="60px" width="60px" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="logotipo do Bootstrap" height="60px" width="60px" align="center">                    
@@ -23,11 +23,11 @@ Segue abaixo um breve resumo sobre mim:</p>
 </div> 
 
 
-# <h1 align="center">**CONTATO**</h1>
-#### <p align="center">Fique à vontade para entrar em contato comigo através dos seguintes meios:</p>
+# <h1 align="center">**CONTACT**</h1>
+#### <p align="center">Feel free to reach out to me through the following means:</p>
 <br>
 <div align="center" display="flex">
-<a href = "mailto:vitorsofiati@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/vitorsofiati" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href = "mailto:vitorsofiati@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" target="_blank"></a>
   
 </div>
