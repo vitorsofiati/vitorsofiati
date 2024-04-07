@@ -3,7 +3,7 @@
 <br>
  <p>Sou o Vitor, desenvolvedor de Software Front-End com muita vontade de aprender!<br> 
 Segue abaixo um breve resumo sobre mim:</p>
-<p>(Se quiser pode dar uma olhadinha no meu site tb 👀)</p>
+<p>(Se quiser pode dar uma olhadinha no meu site também 👀)</p>
 <span>💻 </span><a href="https://vitorsofiati.github.io" target="_blank">https://vitorsofiati.github.io</a>
 <br>
 
@@ -13,12 +13,13 @@ Segue abaixo um breve resumo sobre mim:</p>
 
 
 <div align="center" width="100%">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="80px" width="80px" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="60px" width="60px" display="block" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="60px" width="60px" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" height="70px" width="70px" align="center">          
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" height="70px" width="70px" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" height="80px" width="80px" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="logotipo do Angular" height="80px" width="80px" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="logotipo do TypeScript" height="60px" width="60px" display="block" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="logotipo do JavaScript" height="60px" width="60px" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="logotipo do Bootstrap" height="60px" width="60px" align="center">                    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt="logotipo do HTML5" height="70px" width="70px" align="center">          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" alt="logotipo do CSS3" height="70px" width="70px" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" alt="logotipo do GIT" height="80px" width="80px" align="center">
 </div> 
 
 
