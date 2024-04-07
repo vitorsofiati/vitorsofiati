@@ -23,7 +23,7 @@ Segue abaixo um breve resumo sobre mim:</p>
 
 
 # <h1 align="center">**CONTATO**</h1>
-##### <p align="center">Fique à vontade para entrar em contato comigo através dos seguintes meios:</p>
+#### <p align="center">Fique à vontade para entrar em contato comigo através dos seguintes meios:</p>
 <br>
 <div align="center" display="flex">
 <a href = "mailto:vitorsofiati@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4.svg?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" target="_blank"></a>
