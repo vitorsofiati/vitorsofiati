@@ -1,9 +1,11 @@
 ## <h1>**Olá, seja bem-vindo!** 👋</h1>
 
 <br>
-  Sou o _Vitor_, um desenvolvedor de Software Front-End com muita vontade de aprender!<br> 
-Segue abaixo um breve resumo sobre mim:
-<br><br>
+ <p>Sou o Vitor, desenvolvedor de Software Front-End com muita vontade de aprender!<br> 
+Segue abaixo um breve resumo sobre mim:</p>
+<p>(Se quiser pode dar uma olhadinha no meu site tb 👀)</p>
+<span>💻 </span><a href="https://vitorsofiati.github.io" target="_blank">https://vitorsofiati.github.io</a>
+<br>
 
 # <h1 align="center">_**FERRAMENTAS E TECNOLOGIAS**_</h1>
 #### <p align="center">Estas são as ferramentas e tecnologias nas quais possuo conhecimento:
