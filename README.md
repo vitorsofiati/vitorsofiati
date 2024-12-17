@@ -1,7 +1,7 @@
 ## <h1>**Welcome to my profile!** 👋</h1>
 
 <br>
- <p>I'm Vitor, a Front-End Software Developer with a strong desire to learn!
+ <p>I'm Vitor, a Software Developer with a strong desire to learn!
 Here's a brief summary about me:</p>
 <p>(Feel free to check out my website too 👀)</p>
 <span>💻 </span><a href="https://vitorsofiati.github.io" target="_blank">https://vitorsofiati.github.io</a>
